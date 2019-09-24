@@ -1,0 +1,2 @@
+# futureggroup.github.io
+フューチャーGグループ内定者プロジェクトWebページ公開用リポジトリ
