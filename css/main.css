@@ -1512,11 +1512,11 @@ header .header-logo a {
   background-image: url(../images/team.jpg);
   background-repeat: no-repeat;
   background-position: center 30%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
   background-attachment: fixed;
-  min-height: 804px;
+  /*min-height: 804px;*/
   position: relative;
 }
 #home .overlay {
